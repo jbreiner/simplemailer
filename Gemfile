@@ -51,4 +51,6 @@ gem 'simple_form'
 
 gem 'devise'
 
+gem 'tzinfo-data'
 
+gem 'rename'
